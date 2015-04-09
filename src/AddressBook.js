@@ -1,2 +1,3 @@
 function AddressBook() {
+	this.contacts = [];
 }
